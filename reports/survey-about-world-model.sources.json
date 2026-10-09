@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "1803.10122",
+    "url": "https://huggingface.co/papers/1803.10122",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "N/A",
+    "url": "https://worldmodels.github.io/",
+    "title": "World Models",
+    "date": "2018-03-27",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2309.09777",
+    "url": "https://huggingface.co/papers/2309.09777",
+    "title": "DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving",
+    "date": "2023-09-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2306.04347",
+    "url": "https://huggingface.co/papers/2306.04347",
+    "title": "World Models for Math Story Problems",
+    "date": "2023-06-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.11359",
+    "url": "https://arxiv.org/abs/2610.11359",
+    "title": "Unrolled Time-Varying Graph Signal Restoration under Spatiotemporal Smoothness Priors",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2610.12464",
+    "url": "https://arxiv.org/abs/2610.12464",
+    "date": "2026-10-08",
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2610.10932",
+    "url": "https://arxiv.org/abs/2610.10932",
+    "title": "World Models",
+    "date": "2026-10-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2510.19788",
+    "url": "https://arxiv.org/html/2510.19788v2",
+    "title": "Benchmarking World-Model Learning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "WBench",
+    "url": "https://meituan-longcat.github.io/WBench/",
+    "title": "WBench - Interactive World Model Benchmark",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "aclanthology.org/2025.findings-acl.1342",
+    "url": "https://p.rst.im/q/aclanthology.org/2025.findings-acl.1342.pdf",
+    "title": "Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2401.09985",
+    "url": "https://huggingface.co/papers/2401.09985",
+    "title": "WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens",
+    "date": "2024-01-18",
+    "source": "hf-search"
+  }
+]

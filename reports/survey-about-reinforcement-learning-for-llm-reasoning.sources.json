@@ -1,0 +1,40 @@
+[
+  {
+    "n": 1,
+    "url": "https://magazine.sebastianraschka.com/p/the-state-of-llm-reasoning-model-training",
+    "title": "The State of Reinforcement Learning for LLM Reasoning",
+    "date": "2025-04-19",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2509.08827",
+    "url": "https://arxiv.org/abs/2509.08827",
+    "title": "A Survey of Reinforcement Learning for Large Reasoning Models",
+    "date": "2025-09-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2505.17652",
+    "url": "https://huggingface.co/papers/2505.17652",
+    "title": "Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective",
+    "date": "2025-05-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2602.05281",
+    "url": "https://huggingface.co/papers/2602.05281",
+    "title": "Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities",
+    "date": "2026-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "url": "https://www.nature.com/articles/s41586-025-09422-z",
+    "title": "DeepSeek-R1 incentivizes reasoning in LLMs through ... - Nature",
+    "date": "2025-09-17",
+    "source": "web"
+  }
+]

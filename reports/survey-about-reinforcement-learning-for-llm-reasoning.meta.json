@@ -1,0 +1,24 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "mistral/codestral-latest",
+  "elapsed_s": 99.0,
+  "subagent_calls": 3,
+  "tool_calls": {
+    "write_todos": 3,
+    "task": 3,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 1
+  },
+  "tokens": {
+    "input": 129011,
+    "output": 3060
+  },
+  "n_sources": 5,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

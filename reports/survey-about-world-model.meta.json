@@ -1,0 +1,24 @@
+{
+  "topic": "survey about world model",
+  "model": "mistral/codestral-latest",
+  "elapsed_s": 134.8,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 5,
+    "task": 5,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 136968,
+    "output": 3147
+  },
+  "n_sources": 12,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

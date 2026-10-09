@@ -1,0 +1,25 @@
+{
+  "topic": "survey about video and multimodal generation",
+  "model": "mistral/codestral-latest",
+  "elapsed_s": 275.4,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 4,
+    "task": 5,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 150323,
+    "output": 3850
+  },
+  "n_sources": 17,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ]
+}

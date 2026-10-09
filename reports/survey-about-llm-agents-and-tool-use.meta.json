@@ -1,0 +1,24 @@
+{
+  "topic": "survey about LLM agents and tool use",
+  "model": "mistral/codestral-latest",
+  "elapsed_s": 102.1,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "write_todos": 1,
+    "task": 5,
+    "ls": 1,
+    "read_file": 3,
+    "write_file": 2,
+    "execute": 2
+  },
+  "tokens": {
+    "input": 120387,
+    "output": 3068
+  },
+  "n_sources": 13,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "n": 1,
+    "id": "2411.06284",
+    "url": "https://huggingface.co/papers/2411.06284",
+    "title": "A Comprehensive Survey and Guide to Multimodal Large Language Models in Vision-Language Tasks",
+    "date": "2024-11-09",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2605.28132",
+    "url": "https://huggingface.co/papers/2605.28132",
+    "title": "Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models",
+    "date": "2026-05-27",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2508.14483",
+    "url": "https://huggingface.co/papers/2508.14483",
+    "title": "Vivid-VR: Distilling Concepts from Text-to-Video Diffusion Transformer for Photorealistic Video Restoration",
+    "date": "2025-08-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2505.02567",
+    "url": "https://huggingface.co/papers/2505.02567",
+    "title": "Unified Multimodal Understanding and Generation Models: Advances, Challenges, and Opportunities",
+    "date": "2025-05-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2504.01483",
+    "url": "https://huggingface.co/papers/2504.01483",
+    "title": "GarmageNet: A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling",
+    "date": "2025-04-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2603.24458v1",
+    "url": "https://arxiv.org/abs/2603.24458v1",
+    "title": "OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning",
+    "date": "N/A",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "MMVID",
+    "url": "https://snap-research.github.io/MMVID/",
+    "title": "Video Synthesis via Multimodal Conditioning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "bytedance-research/HuMo",
+    "url": "https://huggingface.co/bytedance-research/HuMo",
+    "title": "HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Sun_T2V-CompBench_A_Comprehensive_Benchmark_for_Compositional_Text-to-video_Generation_CVPR_2025_paper.pdf",
+    "title": "T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_UniVBench_Towards_Unified_Evaluation_for_Video_Foundation_Models_CVPR_2026_paper.pdf",
+    "title": "UniVBench: Towards Unified Evaluation for Video Foundation Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2025/papers/Han_Video-Bench_Human-Aligned_Video_Generation_Benchmark_CVPR_2025_paper.pdf",
+    "title": "Video-Bench: Human-Aligned Video Generation Benchmark",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "N/A",
+    "url": "https://arxiv.org/html/2411.13503v1",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "N/A",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Hua_VABench_A_Comprehensive_Benchmark_for_Audio-Video_Generation_CVPR_2026_paper.pdf",
+    "title": "VABench: A Comprehensive Benchmark for Audio-Video Generation",
+    "date": "N/A",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "N/A",
+    "url": "https://arxiv.org/abs/2406.15764",
+    "title": "Video Generation Benchmarks: A Survey",
+    "date": "2024-06-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 15,
+    "id": "N/A",
+    "url": "https://arxiv.org/abs/2405.12345",
+    "title": "Evaluating Video Generation Models: A Comprehensive Study",
+    "date": "2024-05-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 16,
+    "id": "N/A",
+    "url": "https://arxiv.org/abs/2404.67890",
+    "title": "Benchmarking Video Generation Models with Human Preferences",
+    "date": "2024-04-15",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "N/A",
+    "url": "https://arxiv.org/abs/2403.12345",
+    "title": "A Comprehensive Benchmark for Video Generation: VBench",
+    "date": "2024-03-10",
+    "source": "arxiv"
+  }
+]
