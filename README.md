@@ -2,7 +2,7 @@
 
 **Học viên:** Chu Minh Quân  
 **MSSV:** 2A202602709  
-**Lớp:** K4 - VIN AI THỰC CHIẾN  
+**Lớp:** K4 - L3A-Track 3 
 
 Lab dựng một **hệ thống deep research đa tác tử**: người dùng chỉ cần nhập một chủ đề (ví dụ `survey about world model`), hệ thống tự lập kế hoạch, giao việc cho nhiều subagent, tìm tài liệu trên arXiv, Hugging Face và web, rồi viết một **báo cáo có trích dẫn**.
 
